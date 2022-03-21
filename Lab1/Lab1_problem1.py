@@ -86,7 +86,7 @@ def dfs(row,column,count):
 
 #reading file
 
-file = open("D:\Downloads\Spring  2022\Spring 2022 submissions\CSE422\CSE422 Lab\Lab1\input.txt")
+file = open("input.txt")
 lines_List = file.read().splitlines()
 file.close()
 
